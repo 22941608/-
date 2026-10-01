@@ -1,0 +1,4 @@
+telebot
+requests
+pycryptodome
+staypresent[prod]
